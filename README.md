@@ -1,6 +1,7 @@
+<h1 align="center">Olá 👋, sou Micaelly Cristine</h1>
 
- 
-
+- 📫 micaellycristine01@gmail.com
+- https://www.linkedin.com/in/micaelly-cristine-8a5205200/
 ### Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-purple?style=flat-square&logo=python&logoColor=white)&nbsp;
