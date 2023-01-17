@@ -10,7 +10,7 @@
 
 </br>
 
-### Languages & Tools
+### Languages & Tools 
 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />                                                 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
@@ -20,12 +20,12 @@
 </br>
 
 </br>
-
+ 
 ### Contacts
 
 <div>  
   <a href="mailto:micaellycristine01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo= gmail&logoColor=white" target="_black"></a>
-  <a href="https://www.linkedin.com/in/micaelly-cristine-8a5205200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5 ?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
+  <a href="https://www.linkedin.com/in/micaelly-cristine-8a5205200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
   </div>
   
 </br>
