@@ -2,26 +2,30 @@
 <h1 align="center">Hi 👋, I'm Micaelly </h1>
 </br>
 
+------------
+
 - 🖥️ I’m currently working on **Back End Developer and Data Analyst**
 
-- 🖥📚 I’m currently learning **Data Science and Analytics**
+- 📚 I’m currently learning **Data Science and Analytics**
 
+
+</br>
+
+Technologies and Skills
+------------
+
+| <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> |                                            <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> |
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /> |
+ <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> |
+ <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg" /> |
+ <img width="60 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> |
+ <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
 </br>
 
 </br>
 
-### Languages & Tools 
-<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />                                                 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
-<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg" />
-<img width="60 px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-</br>
-
-</br>
- 
-### Contacts
+Contacts
+------------
 
 <div>  
   <a href="mailto:micaellycristine01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo= gmail&logoColor=white" target="_black"></a>
@@ -30,7 +34,8 @@
   
 </br>
 
-
+ Languages 
+------------
 </br>
  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Micaelly2222&layout=compact&langs_count=8&theme=algolia"/>
 
