@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Micaelly </h1>
 </br>
 
-- 📚 I’m currently working on **Back End Developer and Data Analyst**
+- 🖥️ I’m currently working on **Back End Developer and Data Analyst**
 
-- 🖥️ I’m currently learning **Data Science and Analytics**
+- 🖥📚 I’m currently learning **Data Science and Analytics**
 
 </br>
 
