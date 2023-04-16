@@ -1,9 +1,9 @@
 
-## MICAELLY CRISTINE - Back End and Data Science
+## MICAELLY CRISTINE - Backend and Data Science
 
 ------------
 
-- 🖥️ I’m currently working on **Back End Developer and Data Analyst**
+- 🖥️ I’m currently working on **Backend Developer and Data Analyst**
 
 - 📚 I’m currently learning **Data Science and Analytics**
 
