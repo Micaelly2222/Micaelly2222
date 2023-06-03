@@ -8,6 +8,14 @@
 - 📚 I’m currently learning **Data Science and Analytics**
 
 
+------------
+
+- 🖥️ Atualmente trabalho como **Desenvolvedora Backend e Analista de Dados**
+
+- 📚 Atualmente estou aprendendo **Ciência de Dados**
+
+
+
 </br>
 
 ## Technologies and Skills
