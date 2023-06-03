@@ -1,5 +1,5 @@
 
-## MICAELLY CRISTINE - Backend and Data Science
+## MICAELLY CRISTINE - Backend and Data Science / Backend e Ciência de Dados
 
 ------------
 
@@ -18,7 +18,7 @@
 
 </br>
 
-## Technologies and Skills
+## Technologies and Skills / Tecnologias e Habilidades
 ------------
 
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> <img  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -33,7 +33,7 @@
 
 </br>
 
-## Contacts
+## Contacts / Contatos
 ------------
 
 <div>  
@@ -43,7 +43,7 @@
   
 </br>
 
-## Languages 
+## Languages / Linguagens
 ------------
 </br>
  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Micaelly2222&layout=compact&langs_count=8&theme=algolia"/>
