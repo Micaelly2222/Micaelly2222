@@ -46,6 +46,7 @@
 ## Languages / Linguagens
 ------------
 </br>
- <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Micaelly2222&layout=compact&langs_count=8&theme=algolia"/>
+ <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Micaelly2222&layout=compact&langs_count=8&theme=graywhite"/>
+
 
 </br>
