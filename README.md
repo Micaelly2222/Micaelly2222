@@ -3,14 +3,14 @@
 
 ------------
 
-- 🖥️ I’m currently working on **Backend Developer and Data Analyst**
+- 🖥️ I’m currently working on **Engenheira de Dados**
 
 - 📚 I’m currently learning **Data Science and Analytics**
 
 
 ------------
 
-- 🖥️ Atualmente trabalho como **Desenvolvedora Backend e Analista de Dados**
+- 🖥️ Atualmente trabalho como **Data Engineer**
 
 - 📚 Atualmente estou aprendendo **Ciência de Dados**
 
