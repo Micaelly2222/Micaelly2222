@@ -54,8 +54,14 @@ I like working with data and AI applied to real problems. Day to day, I develop 
 ## Featured projects
 
 - 🏛️ **[Fiscal Responsibility Law prediction](https://github.com/Micaelly2222/tcc_data_science)**: Random Forest classifier (USP MBA thesis) that predicts whether municipalities in Mato Grosso comply with the Fiscal Responsibility Law, using 2017-2021 data. **91.42% accuracy** in the published result, in the *Revista Brasileira de Planejamento e Orçamento* (RBPO), 2024.
-- 🧾 **Company management API:** an API to create, read and update company data.
-- ⚡ **ORM vs INDEX performance:** a study of database performance with ORM and indexes.
+- ⚖️ **[Legal case analysis with Machine Learning and AI](https://github.com/Micaelly2222/projeto-machine-learning-ia)**: a system that analyzes legal proceedings using Machine Learning and AI.
+- ✅ **[Kasper Production Gate](https://github.com/Micaelly2222/kasper-production-gate)**: Python tool that checks creative requests against client rules, approvals, deadlines and monthly limits, with clear reports and technical designs.
+- 📺 **[YouTube data extraction and analysis](https://github.com/Micaelly2222/extracao_e_analise_de_dados_do_youtube)**: Python and Airflow to automate the extraction and analysis of YouTube channels and videos.
+- ☕ **[Management system with Flask](https://github.com/Micaelly2222/sistema_gerenciamento_python_flask)**: a coffee shop management system built with Python, Flask, SQLAlchemy, PostgreSQL and Docker.
+- 🧾 **[Company management API](https://github.com/Micaelly2222/API_gestao_empresa)**: an API to create, read and update company data.
+- ⚡ **[ORM vs INDEX performance](https://github.com/Micaelly2222/estudos_orm_index)**: a study of database performance with ORM and indexes.
+
+👉 [See all repositories](https://github.com/Micaelly2222?tab=repositories)
 
 ## Certifications and courses
 
@@ -124,8 +130,14 @@ Gosto de trabalhar com dados e IA aplicados a problemas reais. No dia a dia, des
 ## Projetos em destaque
 
 - 🏛️ **[Previsão do cumprimento da Lei de Responsabilidade Fiscal](https://github.com/Micaelly2222/tcc_data_science)**: modelo Random Forest (TCC do MBA na USP) que prevê se os municípios de Mato Grosso cumprem a Lei de Responsabilidade Fiscal, com dados de 2017 a 2021. **91,42% de acurácia** no resultado publicado na *Revista Brasileira de Planejamento e Orçamento* (RBPO), 2024.
-- 🧾 **API para gestão de empresa:** API para criação, leitura e atualização de dados de empresas.
-- ⚡ **Comparação de performance entre ORM e INDEX:** estudo sobre desempenho de banco de dados com ORM e índices.
+- ⚖️ **[Análise de processos judiciais com Machine Learning e IA](https://github.com/Micaelly2222/projeto-machine-learning-ia)**: sistema de análise de processos judiciais usando Machine Learning e IA.
+- ✅ **[Kasper Production Gate](https://github.com/Micaelly2222/kasper-production-gate)**: ferramenta em Python que verifica solicitações criativas conforme regras do cliente, aprovações, prazos e limites mensais, com relatórios claros e designs técnicos.
+- 📺 **[Extração e análise de dados do YouTube](https://github.com/Micaelly2222/extracao_e_analise_de_dados_do_youtube)**: Python e Airflow para automatizar a extração e a análise de canais e vídeos do YouTube.
+- ☕ **[Sistema de gerenciamento com Flask](https://github.com/Micaelly2222/sistema_gerenciamento_python_flask)**: sistema de gerenciamento para uma cafeteria, feito com Python, Flask, SQLAlchemy, PostgreSQL e Docker.
+- 🧾 **[API para gestão de empresa](https://github.com/Micaelly2222/API_gestao_empresa)**: API para criação, leitura e atualização de dados de empresas.
+- ⚡ **[Comparação de performance entre ORM e INDEX](https://github.com/Micaelly2222/estudos_orm_index)**: estudo sobre desempenho de banco de dados com ORM e índices.
+
+👉 [Ver todos os repositórios](https://github.com/Micaelly2222?tab=repositories)
 
 ## Certificações e cursos
 
