@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/micaelly-cristine"><img src="https://img.shields.io/badge/LinkedIn-Micaelly%20Cristine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/micaelly-cristine"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <br>
@@ -17,8 +17,12 @@
 # English
 
 <p align="center">
-  <b>Data Scientist · AI Engineer · Data Engineer</b><br>
+  <b>Data Scientist · AI Engineer · Data Engineer · Python Developer</b><br>
   I build LLM and RAG applications, data pipelines and Machine Learning models that solve real problems.
+</p>
+
+<p align="center">
+  🔍 <b>Open to remote opportunities.</b> Contact me on LinkedIn or by email below.
 </p>
 
 ## About me
@@ -31,6 +35,13 @@ I like working with data and AI applied to real problems. Day to day, I develop 
 - 🧱 **Data engineering:** pipelines with Python, PySpark and SQL on Databricks, orchestrated with Airflow (retries, monitoring, data quality tests).
 - 🔌 **Backend:** REST APIs in Flask and FastAPI with JWT/OAuth2, Docker and CI/CD.
 - 📊 **Machine Learning:** classification, scoring, recommendation and time series.
+
+## Core skills
+
+- **Generative AI:** LLMs, RAG (Retrieval-Augmented Generation), AI agents, prompt engineering, embeddings, semantic search, vector databases, LangChain, LlamaIndex, OpenAI, Claude (Anthropic), Amazon Bedrock.
+- **Data engineering:** Python, SQL, PySpark, Databricks, Delta Lake, Apache Airflow, dbt, ETL/ELT, BigQuery, data quality.
+- **Backend and cloud:** Flask, FastAPI, REST APIs, JWT/OAuth2, Docker, Git, CI/CD, Azure DevOps, AWS, Azure, GCP, PostgreSQL, Oracle, Teradata.
+- **Machine Learning:** scikit-learn, TensorFlow, Keras, XGBoost, LightGBM, Pandas, NumPy, NLP, time series.
 
 ## Technologies
 
@@ -50,8 +61,6 @@ I like working with data and AI applied to real problems. Day to day, I develop 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-**Also:** Delta Lake, BigQuery, vector databases, XGBoost, LightGBM, Keras, Teradata, Azure DevOps, CI/CD.
 
 ## Featured projects
 
@@ -84,7 +93,7 @@ micaellycristine01@gmail.com
 
 ## Most used languages
 
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Micaelly2222&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=graywhite"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Micaelly2222&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=graywhite"/>
 
 <p align="right"><a href="#">⬆️ Back to top</a></p>
 
@@ -95,8 +104,12 @@ micaellycristine01@gmail.com
 # Português
 
 <p align="center">
-  <b>Cientista de Dados · Engenheira de IA · Engenheira de Dados</b><br>
+  <b>Cientista de Dados · Engenheira de IA · Engenheira de Dados · Desenvolvedora Python</b><br>
   Eu construo aplicações com LLMs e RAG, pipelines de dados e modelos de Machine Learning que resolvem problemas reais.
+</p>
+
+<p align="center">
+  🔍 <b>Aberta a oportunidades remotas.</b> Fale comigo pelo LinkedIn ou pelo e-mail abaixo.
 </p>
 
 ## Sobre mim
@@ -109,6 +122,13 @@ Gosto de trabalhar com dados e IA aplicados a problemas reais. No dia a dia, des
 - 🧱 **Engenharia de dados:** pipelines com Python, PySpark e SQL no Databricks, orquestrados com Airflow (retries, monitoramento e testes de qualidade de dados).
 - 🔌 **Backend:** APIs REST em Flask e FastAPI com JWT/OAuth2, Docker e CI/CD.
 - 📊 **Machine Learning:** classificação, scoring, recomendação e séries temporais.
+
+## Principais competências
+
+- **IA Generativa:** LLMs, RAG (Retrieval-Augmented Generation), agentes de IA, engenharia de prompts, embeddings, busca semântica, bancos vetoriais, LangChain, LlamaIndex, OpenAI, Claude (Anthropic), Amazon Bedrock.
+- **Engenharia de dados:** Python, SQL, PySpark, Databricks, Delta Lake, Apache Airflow, dbt, ETL/ELT, BigQuery, qualidade de dados.
+- **Backend e cloud:** Flask, FastAPI, APIs REST, JWT/OAuth2, Docker, Git, CI/CD, Azure DevOps, AWS, Azure, GCP, PostgreSQL, Oracle, Teradata.
+- **Machine Learning:** scikit-learn, TensorFlow, Keras, XGBoost, LightGBM, Pandas, NumPy, NLP, séries temporais.
 
 ## Tecnologias
 
@@ -128,8 +148,6 @@ Gosto de trabalhar com dados e IA aplicados a problemas reais. No dia a dia, des
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-**Também:** Delta Lake, BigQuery, bancos vetoriais, XGBoost, LightGBM, Keras, Teradata, Azure DevOps, CI/CD.
 
 ## Projetos em destaque
 
@@ -162,6 +180,6 @@ micaellycristine01@gmail.com
 
 ## Linguagens mais usadas
 
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Micaelly2222&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=graywhite"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Micaelly2222&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=graywhite"/>
 
 <p align="right"><a href="#">⬆️ Voltar ao topo</a></p>
