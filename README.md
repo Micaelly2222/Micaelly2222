@@ -21,9 +21,7 @@
   I build LLM and RAG applications, data pipelines and Machine Learning models that solve real problems.
 </p>
 
-<p align="center">
-  🔍 <b>Open to remote opportunities.</b> Contact me on LinkedIn or by email below.
-</p>
+<p align="center">🌎 Remote</p>
 
 ## About me
 
@@ -74,11 +72,13 @@ I like working with data and AI applied to real problems. Day to day, I develop 
 
 👉 [See all repositories](https://github.com/Micaelly2222?tab=repositories)
 
-## Certifications and courses
+## Education and certifications
 
+- 🎓 **MBA in Data Science and Analytics**, USP/ESALQ (2022-2024)
+- 🎓 **Systems Analysis and Development**, UniFCV (2022-2024)
+- 🎓 **Economics**, Federal University of Mato Grosso (UFMT) (2016-2020)
 - 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- 🎓 **Building with the Claude API** (Anthropic)
-- 🎓 **MBA in Data Science and Analytics** (USP/ESALQ)
+- 📚 **Building with the Claude API** (Anthropic)
 
 ## Contact
 
@@ -93,7 +93,7 @@ micaellycristine01@gmail.com
 
 ## Most used languages
 
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Micaelly2222&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=graywhite"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Micaelly2222&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=graywhite"/>
 
 <p align="right"><a href="#">⬆️ Back to top</a></p>
 
@@ -108,9 +108,7 @@ micaellycristine01@gmail.com
   Eu construo aplicações com LLMs e RAG, pipelines de dados e modelos de Machine Learning que resolvem problemas reais.
 </p>
 
-<p align="center">
-  🔍 <b>Aberta a oportunidades remotas.</b> Fale comigo pelo LinkedIn ou pelo e-mail abaixo.
-</p>
+<p align="center">🌎 Remoto</p>
 
 ## Sobre mim
 
@@ -161,11 +159,13 @@ Gosto de trabalhar com dados e IA aplicados a problemas reais. No dia a dia, des
 
 👉 [Ver todos os repositórios](https://github.com/Micaelly2222?tab=repositories)
 
-## Certificações e cursos
+## Formação e certificações
 
+- 🎓 **MBA em Ciência de Dados e Analytics**, USP/ESALQ (2022-2024)
+- 🎓 **Análise e Desenvolvimento de Sistemas**, UniFCV (2022-2024)
+- 🎓 **Ciências Econômicas**, Universidade Federal de Mato Grosso (UFMT) (2016-2020)
 - 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- 🎓 **Building with the Claude API** (Anthropic)
-- 🎓 **MBA em Ciência de Dados e Analytics** (USP/ESALQ)
+- 📚 **Building with the Claude API** (Anthropic)
 
 ## Contato
 
@@ -180,6 +180,6 @@ micaellycristine01@gmail.com
 
 ## Linguagens mais usadas
 
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Micaelly2222&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=graywhite"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Micaelly2222&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=graywhite"/>
 
 <p align="right"><a href="#">⬆️ Voltar ao topo</a></p>
