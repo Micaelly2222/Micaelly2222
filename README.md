@@ -83,7 +83,7 @@ I like working with data and AI applied to real problems. Day to day, I develop 
 ## Contact
 
 <a href="https://www.linkedin.com/in/micaelly-cristine" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://micaelly2222.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge"></a>
+<a href="https://www.micaellycristine.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge"></a>
 
 📧 **Email** (click the copy button):
 
@@ -170,7 +170,7 @@ Gosto de trabalhar com dados e IA aplicados a problemas reais. No dia a dia, des
 ## Contato
 
 <a href="https://www.linkedin.com/in/micaelly-cristine" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://micaelly2222.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1F3A5F?style=for-the-badge"></a>
+<a href="https://www.micaellycristine.com" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1F3A5F?style=for-the-badge"></a>
 
 📧 **E-mail** (clique no botão de copiar):
 
